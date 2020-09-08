@@ -2,7 +2,7 @@
 Creating Anime faces with DCGAN
 
 This is a project where I used a Deep Convolutional Generative Adversial Network to generate pictures of anime faces. 
-This network was trained on a datast of 63,569 images of size 128x128 pixels.
+This network was trained on a dataset of 63,569 images of size 128x128 pixels.
 
 The network has 1,050,112 trainable parameters using Convolution, Transposed Convolution, Dropout, Dense, and BatchNorm layers with ReLU and TanH activations.
 
